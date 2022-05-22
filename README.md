@@ -13,6 +13,7 @@ The report shows the total amount of FECI paid per month by a Financial Institut
 
 [Monthly FECI Payment.zip](https://github.com/danielaholguini/SQL-Projects/files/8750449/Monthly.FECI.Payment.zip)
 
+![image](https://user-images.githubusercontent.com/106038804/169720601-5eeb5dda-b7d5-4ce0-a97c-3f6a62a70b78.png)
 
 # SYBASE SQL - Queries
 These are some queries in SYBASE SQL that I have written to query data from a private Bank of Panama.
