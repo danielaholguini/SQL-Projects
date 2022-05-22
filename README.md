@@ -7,7 +7,11 @@ These are some of the procedures I have developed in PL/SQL with the help of my 
 
 [CALCULATE MONTHLY CHARGES PROCEDURE.txt](https://github.com/danielaholguini/SQL-Projects/files/8750442/CALCULATE.MONTHLY.CHARGES.PROCEDURE.txt)
 
-In this language, I also developed a hybrid application, which let users see their upcoming paychecks and request cash in advance.
+In this language, I also developed a hybrid application, which let users see their upcoming paychecks and request cash in advance. 
+This is what it looks like from a phone:
+![image](https://user-images.githubusercontent.com/106038804/169721661-e64a7368-572f-4ba7-a713-4480ccfb5288.png)
+![image](https://user-images.githubusercontent.com/106038804/169721667-1620bd31-72db-4864-931c-83be5da566fd.png)
+
 
 
 # SQL Server - Report
