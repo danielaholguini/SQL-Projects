@@ -7,6 +7,9 @@ These are some of the procedures I have developed in PL/SQL with the help of my 
 
 [CALCULATE MONTHLY CHARGES PROCEDURE.txt](https://github.com/danielaholguini/SQL-Projects/files/8750442/CALCULATE.MONTHLY.CHARGES.PROCEDURE.txt)
 
+In this language, I also developed a hybrid application, which let users see their upcoming paychecks and request cash in advance.
+
+
 # SQL Server - Report
 This is an example of my work in SQL Server: a report file created in Visual Studio (SSRS Reporting Services). 
 The report shows the total amount of FECI paid per month by a Financial Institution. (FECI is similar to taxes, which is why they need to inform the government).
@@ -18,9 +21,15 @@ This is how the report looks:
 
 
 # SYBASE SQL - Queries
-These are some queries in SYBASE SQL that I have written to query data from a private Bank of Panama.
+These are some queries I have written to retrieve data from a private Bank of Panama.
 
 [CLIENT INFORMATION QUERY.txt](https://github.com/danielaholguini/SQL-Projects/files/8750453/CLIENT.INFORMATION.QUERY.txt)
+[GENERAL QUERY.txt](https://github.com/danielaholguini/SQL-Projects/files/8750486/GENERAL.QUERY.txt)
+[EMPLOYEE PERMISSIONS QUERY.txt](https://github.com/danielaholguini/SQL-Projects/files/8750487/EMPLOYEE.PERMISSIONS.QUERY.txt)
 
-And a Migration Query (From a core called COBIS to Oracle APEX, a web-based application)
+I also performed Data Migration from a software called COBIS to Oracle APEX, a web-based application, with SYBASE SQL queries (No access to those at the moment.)
+
+Clients information was brought to a new application.
+![image](https://user-images.githubusercontent.com/106038804/169721192-6de6d78b-7af9-49a1-adf6-3ec901f149b5.png)
+
 
