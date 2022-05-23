@@ -37,7 +37,7 @@ These are some queries I have written to retrieve data from a private Bank of Pa
 
 I also performed Data Migration from a software called COBIS to Oracle APEX, a web-based application, with SYBASE SQL queries (No access to those at the moment.)
 
-Clients information was brought to a new application.
+Client information was migrated to a new application.
 ![image](https://user-images.githubusercontent.com/106038804/169721192-6de6d78b-7af9-49a1-adf6-3ec901f149b5.png)
 
 
