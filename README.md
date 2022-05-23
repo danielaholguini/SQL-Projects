@@ -1,7 +1,7 @@
 # Oracle PL/SQL-Procedures
 These are some of the procedures I have developed in PL/SQL with the help of my team (Logic and processes were given by the Database Architect & PM, and I translated them into PL/SQL). 
 
-{WORK1}(https://github.com/danielaholguini/SQL-Projects/blob/main/CREATE%20A%20CREDIT%20REGISTRY.sql)
+[WORK1](https://github.com/danielaholguini/SQL-Projects/blob/main/CREATE%20A%20CREDIT%20REGISTRY.sql)
 
 [CREATE MONTHLY PAYMENT DATES  PROCEDURE.txt](https://github.com/danielaholguini/SQL-Projects/files/8750440/CREATE.MONTHLY.PAYMENT.DATES.PROCEDURE.txt)
 
