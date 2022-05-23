@@ -30,7 +30,9 @@ This is how the report looks:
 These are some queries I have written to retrieve data from a private Bank of Panama.
 
 [CLIENT INFORMATION QUERY](https://github.com/danielaholguini/SQL-Projects/blob/main/CLIENT%20INFORMATION%20QUERY.sql)
+
 [GENERAL QUERY](https://github.com/danielaholguini/SQL-Projects/blob/main/GENERAL%20QUERY.sql)
+
 [EMPLOYEE PERMISSIONS QUERY](https://github.com/danielaholguini/SQL-Projects/blob/main/EMPLOYEE%20PERMISSIONS%20QUERY.sql)
 
 I also performed Data Migration from a software called COBIS to Oracle APEX, a web-based application, with SYBASE SQL queries (No access to those at the moment.)
